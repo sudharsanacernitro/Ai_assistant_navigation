@@ -1,0 +1,5 @@
+Page,Description
+HomePage,Main screen where all content is displayed.
+ProfilePage,User's personal profile with account details.
+SettingsPage,Page where users can modify application settings.
+CameraPage,Used to take pictures and videos.
